@@ -5,8 +5,10 @@
 
 ## Overview
 
-* [Producer](http://www.dirigible.io/api/messaging_producer.html) - provides a **Messaging Producer Object**, which can send text messages to a Queue or Topic destination in the built-in Message Broker
-* [Consumer](http://www.dirigible.io/api/messaging_consumer.html) - provides a **Messaging Consumer Object**, which can send text messages to a Queue or Topic destination in the built-in Message Broker
+* [Producer](http://www.dirigible.io/api/messaging_producer.html)
+  - provides a **Messaging Producer Object**, which can send text messages to a Queue or Topic destination in the built-in Message Broker
+* [Consumer](http://www.dirigible.io/api/messaging_consumer.html)
+  - provides a **Messaging Consumer Object**, which can send text messages to a Queue or Topic destination in the built-in Message Broker
 
 ## License
 
